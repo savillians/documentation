@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 ## Privacy Policy
 
 Savillians built the Standing in Line app as an ad-supported app. This SERVICE is provided by Savillians and is intended
@@ -81,3 +86,7 @@ immediately, after they are posted on this page.
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+
+---
+
+[Home](./) | [Support](./support)
