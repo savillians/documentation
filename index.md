@@ -11,4 +11,4 @@ Browse the links below to learn more.
 
 ---
 
-[Privacy Policy](./privacy-policy) | [Support](./support)
+[Apps](./apps) | [Privacy Policy](./privacy-policy) | [Support](./support)
