@@ -13,9 +13,11 @@ Standing in Line is a collection of party games built for people stuck in line t
 
 **Games included:**
 
-**Guessing in Line** — A password-style word guessing game played across three rounds. In round one, give clues freely. In round two, you get one word. In round three, act it out in silence. Same word pool across all three rounds, so the tension builds. Teams race to guess the most words before the timer runs out.
+**Mad Hint Mayhem** — A password-style word guessing game played across three rounds. In round one, give clues freely. In round two, you get one word. In round three, act it out in silence. Same word pool across all three rounds, so the tension builds. Teams race to guess the most words before the timer runs out.
 
 **Queue Karaoke** — A name-that-tune game in two rounds. First, hum the melody — no words allowed. Then, in round two, sing exactly two words from the lyrics. Categories include movie soundtracks, pop hits, musicals, rock classics, and more. Bring your own custom setlist if you want.
+
+**Charade Parade** — Classic charades, no talking. Hold the phone to your forehead and let your teammates act it out — tilt down when you get it right, tilt up to pass. Three difficulty tiers, from simple nouns to abstract concepts.
 
 Available for iOS and Android.
 
@@ -37,6 +39,10 @@ Together in Line uses Bluetooth to connect nearby phones — no Wi-Fi, no accoun
 **Games included:**
 
 **Tic-Tac-Toe** — A modern take on the classic, supporting 2 to 5 players. Bigger grid, more players, same idea: get your symbols in a row to win.
+
+**Florida Man\*** — Fill in the blank on a real, ridiculous headline and try to fool everyone. Vote for the answer you think is real, score points for guessing right and for tricking others into picking yours.
+
+**Agent Queue** — A social deduction game. Everyone shares a secret phrase except Agent Q, who has to fake it. Give a code word that proves you know the secret without giving it away, then vote for who you think the impostor is.
 
 Available soon for iOS and Android.
 
