@@ -42,7 +42,7 @@ Together in Line uses Bluetooth to connect nearby phones — no Wi-Fi, no accoun
 
 **Agent Queue** — A social deduction game. Everyone shares a secret phrase except Agent Q, who has to fake it. Give a code word that proves you know the secret without giving it away, then vote for who you think the impostor is.
 
-**Tic-Tac-Toe** — A modern take on the classic, supporting 2 to 5 players. Bigger grid, more players, same idea: get your symbols in a row to win.
+**Tic Tac Throwdown** — A modern take on the classic, supporting 2 to 5 players. Bigger grid, more players, same idea: get your symbols in a row to win.
 
 Available soon for iOS and Android.
 
