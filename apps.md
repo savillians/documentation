@@ -48,4 +48,4 @@ Available soon for iOS and Android.
 
 ---
 
-[Home](./) | [Privacy Policy](./privacy-policy) | [Support](./support)
+[Home](./) | [Privacy Policy](./privacy-policy) | [Terms of Use](./terms) | [Support](./support)

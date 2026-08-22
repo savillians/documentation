@@ -11,4 +11,4 @@ Please contact us at [savilliansapps@gmail.com](mailto:savilliansapps@gmail.com)
 
 ---
 
-[Home](./) | [Privacy Policy](./privacy-policy)
+[Home](./) | [Privacy Policy](./privacy-policy) | [Terms of Use](./terms)

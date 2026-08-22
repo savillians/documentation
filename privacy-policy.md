@@ -15,8 +15,8 @@ If you choose to use our Service, then you agree to the collection and use of in
 The Personal Information that we collect are used for providing and improving the Service. We will not use or share your
 information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at
-Standing in Line, unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our [Terms of Use](./terms), unless otherwise
+defined in this Privacy Policy.
 
 **Information Collection and Use**
 
@@ -89,4 +89,4 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 ---
 
-[Home](./) | [Support](./support)
+[Home](./) | [Terms of Use](./terms) | [Support](./support)
